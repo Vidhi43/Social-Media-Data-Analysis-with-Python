@@ -23,5 +23,6 @@ The notebook walks through:
 
 ## 🔧 Requirements
 To run the notebook locally, install the following:
+
 ```bash
 pip install -r requirements.txt
